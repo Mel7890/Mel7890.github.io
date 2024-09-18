@@ -3,7 +3,7 @@ title: "Olivine Rock"
 about:
   id: template-area
   template: jolla
-  image: profile.png
+  image: olivine.jfif
   links:
     - icon: twitter
       text: twitter
