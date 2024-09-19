@@ -9,3 +9,10 @@ Don't forget to update the YAML configuration of the webpage in the _quarto.yml 
 To learn more about quarto: <https://quarto.org>
 
 Include here anything that might be of interest, such as projects, publications, ... 
+
+``` {python}
+a = 4
+
+print(a)
+
+``` 
