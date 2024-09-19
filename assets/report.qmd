@@ -44,10 +44,8 @@ Make sure indentations are correct!
 
 --> 
 ``` {python}
-filePath = 'https://raw.githubusercontent.com/Hezel2000/GeoCosmoChemDataAndTools/refs/heads/main/csv/Banda%20Arc.csv'
+a = 4
 
-import pandas as pd
-
-pd.read_csv(filePath)
+print(a)
 
 ``` 
