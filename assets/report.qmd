@@ -40,7 +40,7 @@ Add between lines 15 and 16:
           cache: 'pip'
       - run: pip install -r requirements.txt 
 
-Make sure identations are correct! 
+Make sure indentations are correct! 
 
 --> 
 ``` {python}
@@ -49,4 +49,5 @@ filePath = 'https://raw.githubusercontent.com/Hezel2000/GeoCosmoChemDataAndTools
 import pandas as pd
 
 pd.read_csv(filePath)
+
 ``` 
