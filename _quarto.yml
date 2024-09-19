@@ -4,7 +4,7 @@ project:
 website:
   site-url: https://archaeothommy.github.io/
   repo-url: https://github.com/archaeothommy/archaeothommy.github.io/
-  favicon: favicon.png
+  favicon: olivine.jfif
   title: "Thomas Rose"
   navbar:
     left:
