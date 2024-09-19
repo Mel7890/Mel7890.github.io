@@ -48,6 +48,6 @@ filePath = 'https://raw.githubusercontent.com/Hezel2000/GeoCosmoChemDataAndTools
 
 import pandas as pd
 
-pd.read_csv{filePath}
+pd.read_csv(filePath)
 
 ```
