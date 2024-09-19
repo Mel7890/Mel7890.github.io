@@ -28,6 +28,13 @@
     "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
   },
   {
+    "objectID": "assets/report.html",
+    "href": "assets/report.html",
+    "title": "Random report",
+    "section": "",
+    "text": "print('Hello')\n\nHello"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "This is the Home page of your web site.",
